@@ -1,1 +1,12 @@
 theme: jekyll-theme-minimal
+title: 你的博客名
+subtitle: 博客的副标题，有些主题支持
+description: 博客描述
+keywords: 博客关键词
+author: 作者，在文章中显示
+language: 博客语言语种   
+timezone: 时区
+url: https://ayatokumini.github.io/licheng.github.io/
+root: /
+permalink: :year/:month/:day/:title/
+permalink_defaults:
